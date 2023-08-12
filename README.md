@@ -1,7 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18C2CBC&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Letícia,+Welcome+to+my+Github+profile.💞)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18C2CBC&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Isaac,+Welcome+to+my+Github+profile.💞)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=1000&lines=I'm+Full+Stack+Java+Developer+Jr.⚡)
 
-<img align="right" width=350 height=350 src=https://github.com/leticiafrancielle/leticiafrancielle/assets/124750949/5b747324-03c3-4ec4-b2af-8dd5a79aef61/>
+<img align="right" width=350 height=350 src=https://github.com/isaac-kapela/isaac-kapela/assets/124750949/5b747324-03c3-4ec4-b2af-8dd5a79aef61/>
 
 <div>
     <a href="https://github.com/isaac-kapela">

@@ -21,7 +21,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"  />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
   <p align="center">

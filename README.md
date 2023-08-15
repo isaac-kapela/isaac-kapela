@@ -6,4 +6,4 @@
 <div>
     <a href="https://github.com/isaac-kapela">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-kapela&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img align="left" height="180em" src="https://github-r…
+

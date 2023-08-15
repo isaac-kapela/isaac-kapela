@@ -8,6 +8,8 @@
 
 ![Isaac-kapela](https://github-readme-stats.vercel.app/api?username=Isaac-kapela&show_icons=true)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18C2CBC&size=35&center=true&vCenter=true&width=1000&lines=Technologies+under+development+👾) 
+
 <div align="center">
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"  height="45" width="45" />

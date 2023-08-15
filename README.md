@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18C2CBC&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Isaac,+Welcome+to+my+Github+profile.💞)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=1000&lines=I'm+Full+Stack+Java+Developer+Jr.⚡)
+# Isaac Kapela
 
-<img align="right" width=350 height=350 src=https://github.com/isaac-kapela/isaac-kapela/assets/124750949/5b747324-03c3-4ec4-b2af-8dd5a79aef61/>
 
-<div>
-    <a href="https://github.com/isaac-kapela">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-kapela&layout=compact&langs_count=7&theme=midnight-purple"/>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Isaac-kapela)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/isaac-kapela-a75141250/)
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-kapela&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
+![Isaac-kapela](https://github-readme-stats.vercel.app/api?username=Isaac-kapela&show_icons=true)

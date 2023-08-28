@@ -7,7 +7,11 @@
 
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Kapela&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
+
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Isaac-Kapela=react&line_height=40&hide=css"/> </a>
+
+
 
 ![Isaac-Kapela](https://github-readme-stats.vercel.app/api?username=Isaac-Kapela&show_icons=true)
 

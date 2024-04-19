@@ -20,21 +20,21 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="2">
 </p>
 
-<div align="center">
-   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="2" />
+
+  <div className="skills">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" width="45" />
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon"  width="65" height="65" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  height="45" width="45"  />
+    <img style={{ display: 'flex', alignItems: 'flex-start' }} src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" width="45" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"  />
-    <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-
+    <img src="https://i.gifer.com/7u6b.gif" width="50" height="50" alt="" style={{ backgroundColor: '#191f36', borderRadius: '10px' }} />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
+    <img style={{ display: 'flex', alignItems: 'flex-start' }} src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://imgur.com/I7Sobjv.gif" width="65" height="65" style={{ backgroundColor: '#191f36', borderRadius: '10px' }} alt="" />
   </div>
-  <p align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="750" height="2">
-</p>
-
+  
 

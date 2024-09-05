@@ -1,10 +1,15 @@
 ### Olá!  sou o Isaac Kapela seja bem vindo (a) ao meu perfil 👊🏿
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Isaac-Kapela)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/isaac-kapela-a75141250/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfólio-blue?style=flat-square&logo=vercel&logoColor=white&link=https://vercel.com/isaac-kapelas-projects/kapela)](https://vercel.com/isaac-kapelas-projects/kapela)
-
+<a href="https://github.com/Isaac-Kapela" target="_blank">
+  <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" alt="Github Badge" />
+</a>
+<a href="https://www.linkedin.com/in/isaac-kapela-a75141250/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
+</a>
+<a href="https://kapela.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfólio-blue?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+</a>
 
 
 
